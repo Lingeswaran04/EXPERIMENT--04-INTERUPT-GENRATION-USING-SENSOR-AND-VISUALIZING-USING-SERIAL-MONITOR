@@ -111,7 +111,7 @@ The diagram below shows how the GPIO pins are connected to the 16 interrupt line
   
 
 ## STM 32 CUBE PROGRAM :
-
+```
 #include "main.h"
 #include"stdbool.h"
 #include "stdio.h"
@@ -227,7 +227,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 {
 }
 #endif
-
+```
 ## Output screen shots of serial port utility   :
  ![image](https://github.com/Lingeswaran04/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/119103865/598f12ba-a578-4384-8163-82c27d5407cc)
 
